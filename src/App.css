@@ -1,0 +1,15 @@
+body {
+  background-color: #F5FFFA; /* Mint Cream */
+  font-family: 'Arial', sans-serif; /* Professional looking font */
+  color: #333; /* Dark text for contrast */
+  padding: 50px; /* Plenty of padding */
+}
+
+.container {
+  background-color: #fff; /* White background for your content */
+  border-radius: 15px; /* Rounded corners for a softer, fun look */
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  padding: 30px; /* Space around your content */
+  max-width: 800px; /* Control the width of your content */
+  margin: auto; /* Center the content on the page */
+}
